@@ -31,3 +31,6 @@
 
 <img src="[LINK_DO_SEU_GIF.gif](https://64.media.tumblr.com/f8212ae141d6a815fad3aa372855c59b/b45b361ebecf831f-1b/s540x810/7db2157c5ccbf45a8dfc767b149afb1add7545f5.gif)" width="400" />
 
+
+
+![Snake animation](https://github.com/SEU_USUARIO/kayofelps0/blob/output/github-contribution-grid-snake.svg)
