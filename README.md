@@ -1,16 +1,33 @@
-## Hi there 👋
+## Olá!Eu sou o Kayo Felipe👋
 
-<!--
-**kayofelps0/kayofelps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação | 16 anos  
+🚀 Aprendendo lógica, algoritmos e desenvolvimento web  
+📚 Focado em evoluir um pouco todos os dias  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayofelps0&show_icons=true&theme=transparent)
+<div></div>
+
+
+<a href="https://instagram.com/kayox.f" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-ff0077?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:kayofelipe3000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kayo-felipe-30722237a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/kayofelps0" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://discord.com/users/732353905001889864" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<img src="[LINK_DO_SEU_GIF.gif](https://64.media.tumblr.com/f8212ae141d6a815fad3aa372855c59b/b45b361ebecf831f-1b/s540x810/7db2157c5ccbf45a8dfc767b149afb1add7545f5.gif)" width="400" />
+
